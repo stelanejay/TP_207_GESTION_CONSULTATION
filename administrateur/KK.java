@@ -7,7 +7,7 @@ package administrateur;
 
 /**
  *
- * @author JUSTIN
+ * @author kanou fokou
  */
 public class KK extends javax.swing.JFrame {
 

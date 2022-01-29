@@ -7,7 +7,7 @@ package administrateur;
 
 /**
  *
- * @author JUSTIN
+ * @author kanou fokou
  */
 public class JJ extends javax.swing.JPanel {
 
